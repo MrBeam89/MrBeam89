@@ -1,12 +1,14 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/117269111" width=200 height=200/></p>
 <h1 align="center">Hi 👋, I'm MrBeam89_</h1>
-<h3 align="center">Just a 15 y/o kid who tries to code</h3>
+<h3 align="center">Just a 15 y/o 🇫🇷 kid who tries to code</h3>
 
 - 🔭 I’m currently working on [EcoleDirecte Bot](https://github.com/MrBeam89/ecoledirecte-bot)
 
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me : **mrbeam89@protonmail.com**
+
+- 💬 Languages I speak : **French and English**
 
 - ⚡ Fun fact : **I don't pretend to be good at programming**
 
