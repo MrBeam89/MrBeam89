@@ -11,6 +11,7 @@
 * 💬 Able to speak **English** or **French**
 * 🚀 I'm currently working on: a **private project**
 * 🤝 I'm open to collaborating on **small Python projects**
+* 📧 You can contact me by email at [mrbeam89@protonmail.com](mailto:mrbeam89@protonmail.com)
 * 🖥️ See my portfolio at [www.mrbeam89.github.io](http://www.mrbeam89.github.io)
 * ⚡ (Not so) fun fact : I'm still in highschool
 
@@ -36,3 +37,5 @@
 <!-- Stats -->
 <h3 align="left">📊 Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbeam89&show_icons=true&theme=dark&locale=en" alt="mrbeam89" /></p>
+
+[PGP Key](https://github.com/mrbeam89.gpg)
