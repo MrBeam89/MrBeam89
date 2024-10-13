@@ -12,7 +12,7 @@
 * 🚀 I'm currently working on: a **private project**
 * 🤝 I'm open to collaborating on **small Python projects**
 * 📧 You can contact me by email at [mrbeam89@protonmail.com](mailto:mrbeam89@protonmail.com)
-* 🖥️ See my portfolio at [www.mrbeam89.github.io](http://www.mrbeam89.github.io)
+* 🖥️ See my portfolio at [mrbeam89.github.io](https://mrbeam89.github.io)
 * ⚡ (Not so) fun fact : I'm still in highschool
 
 <!-- Skills -->
